@@ -1,0 +1,4 @@
+Sportsmania
+Hyderabad,Chennai
+matchno,team1,runs1,wickets1,overs1,team2,runs2,wickets2,overs2,toss,decision,max_overs
+1,Hyderabad,0,0,0,Chennai,0,0,0,not_completed,not_completed,20
